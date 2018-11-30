@@ -5,5 +5,6 @@
     "username": "-USERNAME-",
     "content": "-MESSAGE-",
 
-    "loop": false
+    "loop": false,
+    "looppause": 3
 }
