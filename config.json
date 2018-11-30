@@ -1,0 +1,9 @@
+{
+    "webhook": "-INSERT-WEBHOOK-URL-HERE-",
+    
+    "avatar_url": "-DIRECT-URL-TO-IMAGE-HERE-",
+    "username": "-USERNAME-",
+    "content": "-MESSAGE-",
+
+    "loop": false
+}
