@@ -24,7 +24,7 @@ function webhook() {
             if(i >= 0) {
                 i++;
                 send();
-                setTimeout(loop, 3000);
+                setTimeout(loop, c.looppause * 1000);
             }
         })();
     } else if (c.loop == false) {
