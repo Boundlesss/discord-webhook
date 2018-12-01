@@ -1,5 +1,9 @@
 {
-    "webhook": "-INSERT-WEBHOOK-URL-HERE-",
+    "webhooks": [
+        "-INSERT-AS-MANY-WEBHOOKS-URLS-AS-YOU-WANT",
+        "-YOU-CAN-DO-ONE-HERE!-",
+        "-AND-HERE!-"
+    ],
     
     "avatar_url": "-DIRECT-URL-TO-IMAGE-HERE-",
     "username": "-USERNAME-",
