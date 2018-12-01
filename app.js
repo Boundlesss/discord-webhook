@@ -24,12 +24,6 @@ function webhook() {
     }
 }
 
-function webhookloop() {
-    for (var i = 0; i < c.webhooks.length; i++){
-        console.log(c.webhooks[i]);
-    }
-}
-
 function send() {    
     var options = {
         url: c.webhooks[0],
