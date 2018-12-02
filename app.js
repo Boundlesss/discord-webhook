@@ -1,7 +1,7 @@
 // Discord Webhook Example - Gabe.
 // Very simple code, but maybe a little unclean. Will update soon!
 
-// (JUST EDIT THE CONFIG FILE TO YOUR NEEDS!)
+// (JUST EDIT THE CONFIG FILE TO YOUR NEEDS!!)
 
 const request = require('request');
 const c = require('./config.json');
